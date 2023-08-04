@@ -1,1 +1,2 @@
-# This is my personal exercise of Stephen Prata's book named C Primer Plus.
+# Personal_CPrimerPlus_Exercise
+This is my personal exercise of Stephen Prata's book named C Primer Plus.
