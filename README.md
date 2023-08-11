@@ -1,2 +1,2 @@
-# Personal_CPrimerPlus_Exercise
+# personal-cprimerplus-exercise
 This is my personal exercise of Stephen Prata's book named C Primer Plus.
