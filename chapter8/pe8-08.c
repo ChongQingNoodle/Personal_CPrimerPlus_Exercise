@@ -10,16 +10,13 @@
 
 // a
 // Enter first number: 22
-// .4
 // Enter second number: one
 // one is not an number.
 // Please enter a number, such as 2.5, -1.78E8, or3:1
 // 22.4 + 1 = 23.4
 // Enter the operation of your choice:
-// a. add
-// s. subtract
-// d. divide
-// m. multiply
+// a. add       s. subtract
+// d. divide    m. multiply
 // q. quit
 // d
 // Enter first number: 18.4
@@ -27,10 +24,8 @@
 // Enter a number other than 0: 0.2
 // 18.4/0.2=92
 // Enter the operation of your choice:
-// a. add
-// s. subtract
-// d. divide
-// m. multiply
+// a. add       s. subtract
+// d. divide    m. multiply
 // q. quit
 // q
 // Bye.
