@@ -2,14 +2,10 @@
 // 后该程序应返回一年中到用户指定日子(包括这一天)的总天数。
 
 #include <stdio.h>
-#include <ctype.h>
+#include <ctype.h> 
 #include <string.h>
-#include <stdlib.h>
+#include <stdlib.h> // 提供atoi的原型
 
-int get_year(void);
-int get_month(void);
-int get_day(void);
-int calYTM(int monthNumber);
 
 typedef struct Month
 {
@@ -64,7 +60,7 @@ int main(void)
     return 0;
 }
 
-void is_leap_year(int year)
+void is_leap_year(int year) // 计算是否时闰年
 {
     if(( year % 4 == 0 && year % 100 != 0) || year % 400 == 0)
     {
