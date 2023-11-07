@@ -75,7 +75,7 @@ void sort_by_title(struct book library[], int n)
 {
     int i, j;
     struct book temp;
-
+    // 双指针排序算法
     for ( i = 0; i < n - 1; i++)
     {
         for ( j = i+1; j < n; j++)
@@ -100,7 +100,7 @@ void sort_by_price(struct book library[], int n)
 {
     int i, j;
     struct book temp;
-
+    // 双指针排序算法
     for ( i = 0; i < n - 1; i++)
     {
         for ( j = i+1; j < n; j++)
